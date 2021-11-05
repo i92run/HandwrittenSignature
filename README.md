@@ -23,3 +23,10 @@ Local 환경 세팅
 Library
 
 1. Signature-pad: 1.2.1
+
+
+기존 업로드된 프로젝트
+
+1. 다양한 화면 크기에 따른 앱의 유연한 레이아웃을 위해 ConstraintLayout으로 변경
+
+- 기존: LinearLayout으로 설정
